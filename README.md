@@ -33,8 +33,8 @@ To implement a basic lane detection pipeline using OpenCV by completing missing 
 
 ##  Developed By
 
-* **Name:** Abinaya A
-* **Register No:** 212224230004
+* **Name:** SANTHIYA B
+* **Register No:** 212224230247
 
 ##  Algorithm & Explanation
 
